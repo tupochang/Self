@@ -1,7 +1,5 @@
 <!-- _navbar.md -->
 * [首頁](/)
-* [QA工具功能說明](zh-cn/QATOOLS/)
-* [美術人員工具功能說明](zh-cn/MTOOLS/)
 <!--* * [通用](zh-cn/MTOOLS/SkinAndBones/)-->
 <!--* * [模型](zh-cn/MTOOLS/SkinAndBones/)-->
 <!--* * [UV](zh-cn/MTOOLS/SkinAndBones/)-->
