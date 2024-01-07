@@ -1,5 +1,6 @@
 * [首頁](/)
 * [職業搭配](Profession.md "職業搭配")
+* [劇情流程]（First.md "劇情流程"）
 * [練等推薦](Upgrade.md "練等推薦")
 * [賺錢](MakeMoney.md "賺錢")
 * [活動](Day.md "活動")
