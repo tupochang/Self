@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](images/logo.jpg)
+<!--![logo](images/logo.jpg)-->
 
 # TheElderScrolls®Online
 
