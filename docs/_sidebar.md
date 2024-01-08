@@ -1,4 +1,5 @@
 * [首頁](/)
+* [背景](Background.md "背景")
 * [職業搭配](Profession.md "職業搭配")
 * [劇情流程](First.md "劇情流程")
 * [練等推薦](Upgrade.md "練等推薦")
