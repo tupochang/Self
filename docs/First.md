@@ -95,16 +95,17 @@
 - 序章任務 [惡魔武器](https://en.uesp.net/wiki/Online:The_Demon_Weapon)(免費) 
 - 序章任務 [巨像大廳](https://en.uesp.net/wiki/Online:The_Halls_of_Colossus)(遊戲內任務)
 ![SeasonofDragon](images/SeasonofDragon.jpg)
-北艾斯維爾  
-然後在完成北愛斯維爾章節的劇情後就是一個副本DLC
+北艾斯維爾 
+- [DLC 艾思維爾]()(3500) 
+然後在完成北愛思維爾章節的劇情後就是一個副本DLC
 - [DLC 斷鱗者]()()
 包括兩個外傳似的副本，[月墓古廟](https://en.uesp.net/wiki/Online:Moongrave_Fane)和[馬塞洛克的巢穴](https://en.uesp.net/wiki/Online:Lair_of_Maarselok)。
 在完成這兩個副本之後，把兩個接下來的DLC序章任務給做了
-- [DLC 龍之要塞]()(2000)
+
 - 序章任務 [龍衛的傳承](https://en.uesp.net/wiki/Online:The_Dragonguard%27s_Legacy)(免費)   
 - 序章任務 [賈達裡號角](https://en.uesp.net/wiki/Online:The_Horn_of_Ja%27darri)(遊戲內任務)
-也就是南愛斯維爾地圖DLC的序章 。
- 
+也就是南愛思維爾地圖DLC的序章 。
+- [DLC 龍之要塞]()(2000)
 南艾斯維爾
 # 第三部（DLC）
 在第三時段龍騰紀元和第四時間段天際省的黑暗之心期間有一個副本DLC
@@ -118,6 +119,7 @@
 - 序章任務 [女巫團的難題](https://en.uesp.net/wiki/Online:The_Coven_Conundrum)
 ![DarkheartofSkyrim](images/DarkheartofSkyrim.jpg)
 兩個序章任務做完以後，就可以開始做第四時段的劇情了，也就是天際的黑暗之心。
+- [DLC 灰沼]()(3500)
 在完成西天際Western Skyrim的章節劇情後，就是一個副本DLC
 - [DLC 石與荊棘]()(1500)
 包含兩個副本[石之花园](https://en.uesp.net/wiki/Online:Stone_Garden)和[荆棘城堡](https://en.uesp.net/wiki/Online:Castle_Thorn)，兩個副本的劇情均和西天際主線有關係，所以推薦有時間可以打打普通難度的本體驗副本劇情。
@@ -127,35 +129,34 @@
 - 序章任務 [鴉守調查](https://en.uesp.net/wiki/Online:The_Ravenwatch_Inquiry)
 - 序章任務 [灰色委員會](https://en.uesp.net/wiki/Online:The_Gray_Council)
 給做完，接下來再將瑪卡斯城地圖DLC做完以後，恭喜你，你已經完成了第四時段的全部劇情內容。
- 
-# 第四部（DLC）
+
+# 第五部 湮滅之門
 - [DLC 野心之火]()(1500)
 包括兩個副本
 - [大釜](https://en.uesp.net/wiki/Online:The_Cauldron)
 - [黑德雷克庄园](https://en.uesp.net/wiki/Online:Black_Drake_Villa)
 這兩份副本均和湮滅之門有劇情聯繫強烈建議先做完再做黑木章節的劇情
-
-# 第五部 湮滅之門
+- 序章任務 [凡人的觸碰](https://en.uesp.net/wiki/Online:A_Mortal%27s_Touch)   
+- 序章任務 [皇帝的秘密](https://en.uesp.net/wiki/Online:The_Emperor%27s_Secret) 
 - [DLC 黑木]()(3500)
 主要範圍 黑森林 
 這裡強力建議在做黑木主線之前先把支線全部做完,主線後面有彩蛋.
-
-- 序章任務 [凡人的觸碰](https://en.uesp.net/wiki/Online:A_Mortal%27s_Touch)   
-- 序章任務 [皇帝的秘密](https://en.uesp.net/wiki/Online:The_Emperor%27s_Secret) 
 - [DLC 覺醒之焰]()(1500)
- 
+
 - 序章任務 [末日降臨]()    
-主要範圍 死地
+- [DLC 死地]()(2000)
 
-
-# 未排順序DLC
+# 第六部 布列塔尼人的遺產
+- [DLC 潮起]()(1500)
+- 序章任務[飛升的疑惑]()
+- [DLC 高島]()(3500)
+做完高島章節的劇情再接續
+- [DLC 失落深淵]()(1500)
+- 序章任務 [德魯伊王的旅居]()    
+- [DLC 焱歌]()(2000)
+# 第七部 晨風陰影()
 - 命運書寫師(1500)(死靈之地前段)
-- 失落深淵(1500)
-- 死地(2000)
-- 潮起(1500)
-- 灰沼(3500)
-- 焱歌(2000)
+- 序章任務 [命運之眼]()  
 
-- 艾思維爾(3500)
-- 高島(3500)
+
 
