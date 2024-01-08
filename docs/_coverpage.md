@@ -10,5 +10,5 @@
 - 新手導引
 - 遊戲筆記
 
-[Get Started](#內文)
+[Get Started](#內文)  
 <small>0.0.001</small>
