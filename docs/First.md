@@ -63,9 +63,9 @@
 兩個副本DLC，魔神戰爭的伏筆副本，可以做做。 Ruins of Mazzatun蚱蜢屯廢墟以及Cradle of Shadows暗影之源
 # 第二部 神魔戰爭
 
-- 序章一 失蹤的先知(免費)  
+- 序章一 [失蹤的先知](https://en.uesp.net/wiki/Online:The_Missing_Prophecy)(免費)  
 - 第一部曲 晨風-瓦登費爾(免費DLC)   
-晨風後面有兩個DLC副本，沒啥劇情聯繫，可以做做，[血根熔爐]和[福克瑞斯要塞]。
+晨風後面有兩個DLC副本，沒啥劇情聯繫，可以做做，[血根熔爐](https://en.uesp.net/wiki/Online:Bloodroot_Forge)和[福克瑞斯要塞](https://en.uesp.net/wiki/Online:Falkreath_Hold)。
 ![Daedric_War](images/Daedric_War_1.jpg)
 
 - 序章二 刀與長影(免費) 
@@ -80,9 +80,9 @@
 ![Daedric_War](images/Daedric_War_3.jpg)
 # 第二部（DLC）
 - 獵狼人(1500)
-兩個獨立劇情的副本[加入希爾辛的偉大狩獵]和[月狩要塞]。
-- 序章任務 殘酷的競爭(免費)  
-- 序章任務 被詛咒的骷髏(遊戲內任務)
+兩個獨立劇情的副本[加入希爾辛的偉大狩獵](https://en.uesp.net/wiki/Online:March_of_Sacrifices)和[月狩要塞](https://en.uesp.net/wiki/Online:Moon_Hunter_Keep)。
+- 序章任務 [殘酷的競爭](https://en.uesp.net/wiki/Online:Ruthless_Competition)(免費)  
+- 序章任務 [被詛咒的骷髏](https://en.uesp.net/wiki/Online:The_Cursed_Skull)(遊戲內任務)
 - 幽暗沼澤(2000)
 - 怒靈石(1500)  
 這個副本DLC的兩個副本分別是[馬拉塔深淵]和[霜穹] (這個找不到)注意這次的兩個副本DLC是和接下來的龍騰紀元有劇情連結的，建議提前先做。
