@@ -2,9 +2,9 @@
 
 <!--![logo](images/logo.jpg)-->
 
-# TheElderScrolls®Online
+# TheElderScrolls
 
-> 火佛修一，心薩嘸哞
+> Online
 
 - 資料查詢
 - 新手導引
