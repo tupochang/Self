@@ -2,7 +2,7 @@
 
 ![logo](images/logo.jpg)
 
-# TheElderScrolls®Online<small>0.0.001</small>
+# TheElderScrolls®Online  <small>0.0.001</small>
 
 > 火佛修一，心薩嘸哞
 
