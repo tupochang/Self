@@ -27,13 +27,13 @@
 
 ## 陣營地圖的順序
 以下為接下來全部陣營地圖的順序：  
-![AD](images/AD.png)
+![AD](images/AD.png)  
 <small>先祖神州</small>  
  柯娜西的居所>奧瑞頓>格拉特森林＞綠蔭＞高崖岩嶺＞魂殤之地    
-![DC](images/DC.png)
+![DC](images/DC.png)  
 <small>匕落聯盟</small>  
 斯特羅斯邁凱>貝庭克>格林納巴＞風暴港＞碎裂山峰＞阿里克爾沙漠＞班科萊  
-![EP](images/EP.png)
+![EP](images/EP.png)  
 <small>黑壇心公約</small>  
 暗岩島>佛耶之石>石墬>迪莎安＞影沼＞東境＞裂谷    
 
@@ -72,29 +72,29 @@
 ![Daedric_War](images/Daedric_War_1.jpg)
 
 - 序章二 [刀與長影](https://en.uesp.net/wiki/Online:Of_Knives_and_Long_Shadows)(免費) 
-- 第二部曲 發條城(2000)
+- 第二部曲 發條城(2000)  
 ![DClockworkCity](images/ClockworkCity.jpg)
-![Daedric_War](images/Daedric_War_2.jpg)
+![Daedric_War](images/Daedric_War_2.jpg)  
 在做完發條城DLC以後，將會是有一個和章節劇情沒關係的副本DLC
 - [DLC 龍骨]()(1500)
 包括兩個副本[獠牙巢穴](https://en.uesp.net/wiki/Online:Fang_Lair)與[喚鱗者之巔](https://en.uesp.net/wiki/Online:Scalecaller_Peak)。沒劇情影響。
 
 - 序章三 [透過黑暗的面紗](https://en.uesp.net/wiki/Online:Through_a_Veil_Darkly)(免費)  
-- 第三部曲 夏暮島(已購買)
+- 第三部曲 夏暮島(已購買)  
 ![Daedric_War](images/Daedric_War_3.jpg)
 # 第二部（DLC）
 - [DLC 獵狼人]()(1500)
 兩個獨立劇情的副本[加入希爾辛的偉大狩獵](https://en.uesp.net/wiki/Online:March_of_Sacrifices)和[月狩要塞](https://en.uesp.net/wiki/Online:Moon_Hunter_Keep)。
 - 序章任務 [殘酷的競爭](https://en.uesp.net/wiki/Online:Ruthless_Competition)(免費)  
 - 序章任務 [被詛咒的骷髏](https://en.uesp.net/wiki/Online:The_Cursed_Skull)(遊戲內任務)
-- [DLC 幽暗沼澤]()(2000)
+- [DLC 幽暗沼澤]()(2000)  
 ![Murkmire](images/Murkmire.jpg)
 - [DLC 怒靈石]()(1500)  
 這個副本DLC的兩個副本分別是[馬拉塔深淵](https://en.uesp.net/wiki/Online:Depths_of_Malatar)和[冰霜宝库](https://en.uesp.net/wiki/Online:Frostvault)注意這次的兩個副本DLC是和接下來的龍騰紀元有劇情連結的，建議提前先做。
 # 第三部 龍騰紀元
 - 序章任務 [惡魔武器](https://en.uesp.net/wiki/Online:The_Demon_Weapon)(免費) 
 - 序章任務 [巨像大廳](https://en.uesp.net/wiki/Online:The_Halls_of_Colossus)(遊戲內任務)
-![SeasonofDragon](images/SeasonofDragon.jpg)
+![SeasonofDragon](images/SeasonofDragon.jpg)  
 北艾斯維爾 
 - [DLC 艾思維爾]()(3500) 
 然後在完成北愛思維爾章節的劇情後就是一個副本DLC
@@ -117,7 +117,7 @@
 在把
 - 序章任務 [女巫團的陰謀](https://en.uesp.net/wiki/Online:The_Coven_Conspiracy)
 - 序章任務 [女巫團的難題](https://en.uesp.net/wiki/Online:The_Coven_Conundrum)
-![DarkheartofSkyrim](images/DarkheartofSkyrim.jpg)
+![DarkheartofSkyrim](images/DarkheartofSkyrim.jpg)  
 兩個序章任務做完以後，就可以開始做第四時段的劇情了，也就是天際的黑暗之心。
 - [DLC 灰沼]()(3500)
 在完成西天際Western Skyrim的章節劇情後，就是一個副本DLC
