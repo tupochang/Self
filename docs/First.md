@@ -116,7 +116,7 @@
 主要活動點 天際省西部 
 在把
 - 序章任務 [女巫團的陰謀](https://en.uesp.net/wiki/Online:The_Coven_Conspiracy)
-- 序章任務 [女巫團的難題](https://en.uesp.net/wiki/Online:The_Coven_Conundrum)
+- 序章任務 [女巫團的難題](https://en.uesp.net/wiki/Online:The_Coven_Conundrum)  
 ![DarkheartofSkyrim](images/DarkheartofSkyrim.jpg)  
 兩個序章任務做完以後，就可以開始做第四時段的劇情了，也就是天際的黑暗之心。
 - [DLC 灰沼]()(3500)
